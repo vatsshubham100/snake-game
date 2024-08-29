@@ -1,30 +1,38 @@
-<h1>Snake-Game Using HTML,CSS,JS</h1>
+# 🐍 Snake Game - Classic Arcade Fun
 
-This is a simple implementation of the classic Snake game using HTML, CSS, and JavaScript. The game is played on a canvas element and controlled using the arrow keys on the keyboard.
+Experience the nostalgia of the classic Snake game, now available in your browser! This game is built using **HTML**, **CSS**, and **JavaScript**, providing a simple yet engaging gameplay experience.
 
-<h2>Getting Started</h2>
+## 🎮 Play the Game
 
-To play the game, simply open the link <a href="https://mohdriyaan.github.io/snake-game/">Snake-Game</a> in your web browser. The game will start automatically, and you can control the snake using the arrow keys on your keyboard.
+Ready to play? Click the link below to start the game instantly:
 
-<h2>How To Play</h2>
+🔗 **[Play Snake Game](vatsshubham100.github.io/snake-game/)**
 
-The objective of the game is to eat as many apples as possible without colliding with the walls or the snake's own body. As the snake eats more apples, it will grow in length and move faster.
+No installation or downloads are needed—just click and enjoy!
 
-You can control the direction of the snake using the arrow keys on your keyboard:
-<ul>
-  <li>Up: Press the up arrow key to move the snake upwards.</li>
-  <li>Down: Press the down arrow key to move the snake downwards.</li>
-  <li>Left: Press the left arrow key to move the snake to the left.</li>
-  <li>Right: Press the right arrow key to move the snake to the right.</li>
-</ul>
+## 🚀 Getting Started
 
-<h2>Built With</h2>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-</ul>
+Simply open the game link in your preferred web browser. The game will load automatically, and you can start playing right away using the arrow keys on your keyboard.
 
-<h2>Acknowledgements</h2>
+## 🕹️ How To Play
 
-This game was inspired by the classic Snake game that was popular in the late 1990s. Thanks to the developers of that game for providing the inspiration for this project.
+The objective is simple: **eat the apples** to grow your snake while avoiding collisions with the walls or your own tail. The more apples you eat, the longer your snake becomes, and the faster the game gets!
+
+### Controls:
+- **Up Arrow**: Move the snake upward
+- **Down Arrow**: Move the snake downward
+- **Left Arrow**: Move the snake left
+- **Right Arrow**: Move the snake right
+
+Master your reflexes and see how long you can survive!
+
+## 🛠️ Built With
+
+This Snake game was created using:
+- **HTML** - For the structure of the game.
+- **CSS** - For styling and layout.
+- **JavaScript** - To handle game logic and interactivity.
+
+## 📜 License
+
+This project is licensed under the MIT License - feel free to modify and distribute it.
