@@ -6,9 +6,15 @@ Experience the nostalgia of the classic Snake game, now available in your browse
 
 Ready to play? Click the link below to start the game instantly:
 
-🔗 **[Play Snake Game](vatsshubham100.github.io/snake-game/)**
+🔗 **[Play Snake Game](https://vatsshubham100.github.io/snake-game/)**
 
 No installation or downloads are needed—just click and enjoy!
+
+## 🖼️ Screenshots
+
+![Screenshot 2024-08-29 184404](https://github.com/user-attachments/assets/015788db-2313-4191-a668-cb63a89a5d76)
+![Screenshot 2024-08-29 184424](https://github.com/user-attachments/assets/ac470d42-2351-4dde-ae78-7133183011f5)
+![Screenshot 2024-08-29 184436](https://github.com/user-attachments/assets/19fad0ee-55a0-4323-902f-459fca97ebcd)
 
 ## 🚀 Getting Started
 
